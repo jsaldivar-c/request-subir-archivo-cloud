@@ -1,24 +1,29 @@
-## Webpack
----
+# **Subir Imagenes a Cloudinary | Request JavaScript**
 
-Este es el proyecto inicial para crear aplicaciones **webpack**.
+![Subir imagenes a Cloudinary](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601945823/chistes-chuck-norris_ocga44.png "Subir imagenes a Cloudinary")
 
-### Como utilizar la base de webpack
+Ejemplo basico de peticiones HTTP para subir archivos a Cloudinary (herramienta para la gestión de imagenes y videos en la nube).
 
-> - Descargar el repositorio.
-> - Reconstruir los modulos de **Node**.
+Lo que se realiza es simplemente la carga de la imagen desde un dispositivo por ejemplo nuestra PC y se cargara en automatico en la cuenta de Cloudinary (en este caso mi cuenta).
 
-```sh
-npm install
-```
-> - Construir el **Build** de producción.
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
-```sh
-npm run build
-```
+> -   Framework **Bootstrap**
+> -   **Webpack**
+> -   JavaScript ES6
 
-> - Construir el **Build** de desarrollo.
+### **Caracterisiticas**
 
-```sh
-npm run build:dev
-```
+> -   Peticiones HTTP
+> -   Uso de Fetch.
+> -   Async.
+> -   Await.
+> -   Subida de archivos a Cloudinary.
+> -   Manipulación del DOM.
+> -   Eventos.
+
+### Autor
+
+Desarrollado en el curso _**Udemy | JavaScript Moderno | Fernando Herrera**_
+
+Modificaciones basicas y realización de la practica: _**José Saldivar**_
