@@ -1,6 +1,6 @@
 # **Subir Imagenes a Cloudinary | Request JavaScript**
 
-![Subir imagenes a Cloudinary](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601947677/subir-archivos_w5hwpd.jpg "Subir imagenes a Cloudinary")
+![Subir imagenes a Cloudinary](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601947677/GitHub/subir-archivos_w5hwpd.jpg "Subir imagenes a Cloudinary")
 
 Ejemplo basico de peticiones HTTP para subir archivos a Cloudinary (herramienta para la gestión de imagenes y videos en la nube).
 
